@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SNSSA-Yuvagroup-DeveloperBy-Asodariya/static/css/main.1327b5d0.css",
+    "main.js": "/SNSSA-Yuvagroup-DeveloperBy-Asodariya/static/js/main.3e91ae15.js",
+    "index.html": "/SNSSA-Yuvagroup-DeveloperBy-Asodariya/index.html",
+    "main.1327b5d0.css.map": "/SNSSA-Yuvagroup-DeveloperBy-Asodariya/static/css/main.1327b5d0.css.map",
+    "main.3e91ae15.js.map": "/SNSSA-Yuvagroup-DeveloperBy-Asodariya/static/js/main.3e91ae15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1327b5d0.css",
+    "static/js/main.3e91ae15.js"
+  ]
+}
